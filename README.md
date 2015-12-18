@@ -3,6 +3,7 @@
 
 ## Config
 - port `9000` is exposed
+- volume `/baikal/data` is used for data storage
 
 ## Usage
 - `make build` will build the image
